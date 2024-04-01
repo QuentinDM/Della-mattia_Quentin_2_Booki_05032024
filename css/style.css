@@ -243,7 +243,7 @@ h3{/* Inherit all H3 margin*/
     width: 65%;
 }
 
-section .hebergements-card-section-one, .hebergements-card-section-two  {/* Make the first section of card flex */
+.hebergements-card-section-one, .hebergements-card-section-two  {/* Make the first section of card flex */
     display: flex;
     gap: 25px;
     margin-top: 33px;
@@ -253,7 +253,7 @@ section .hebergements-card-section-one, .hebergements-card-section-two  {/* Make
 .hebergements .show-more{
     margin-top: 30px;
 }
-section .hebergements-card-section-two{
+.hebergements-card-section-two{
     padding: inherit;
 }
 
